@@ -11,7 +11,7 @@
 ## 발표자
  
   * 권정민: [기술 용어 번역하기](https://www.slideshare.net/cojette/ss-127740499)
-  * 김승호: [번역 작업의 지속 가능성을 높이는 CAT(Computer-Assisted Translation)](https://github.com/lqez/TTCON/blob/master/201901/contents/ttcon-201901-kimseungho.pdf)
+  * 김승호: [번역 작업의 지속 가능성을 높이는 CAT(Computer-Assisted Translation)](https://www.slideshare.net/mobile/raccoonyy/cat-127803275)
   * 김용균: [내가 보고 싶은 글 번역하기](https://www.youtube.com/watch?v=z7IaVmxIxTM)
   * 김영근: [비윈도우즈 사용자의 기술 서적 번역 도구 경험](https://www.slideshare.net/scarinet/ss-127745157)
   * 김현도: [장애 보고서, 공지 안내문 번역의 즐거움](https://github.com/lqez/TTCON/blob/master/201901/contents/ttcon-201901-kimhyundo.pdf)
