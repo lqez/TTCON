@@ -18,7 +18,7 @@
   * 노현석: [성장하기 위해 번역하는 나](https://speakerdeck.com/pluu/seongjanghagi-wihae-beonyeoghaneun-na)
   * 박현우: [2019년에 기술 문서를 번역하는 기분](https://github.com/lqez/TTCON/blob/master/201901/contents/ttcon-201901-parkhyunwoo.pdf)
   * 변정훈: [nodejs-ko의 팀 번역](https://github.com/lqez/TTCON/blob/master/201901/contents/ttcon-201901-byunjeonghoon.pdf)
-  * 석우징: [Django 문서 한글화와 Transifex](https://1drv.ms/p/s!An2A3CAdfoIAkSD-CKJeYiku9cOg?fbclid=IwAR1pcsw7cBHKYMW0u699Nri0CCVh5BLvsSQV0sm-gJn6TAIjzIkVcj3FW7M)
+  * 석우징: [Django 문서 한글화와 Transifex](https://1drv.ms/p/s!An2A3CAdfoIAkSD-CKJeYiku9cOg)
   * 이해봄: [Notion 가이드 번역 회고](https://brunch.co.kr/@haebomi/27)
   * 정희: [업계 표준 번역 툴 이야기](https://docs.google.com/presentation/d/1y79rvgIrkPRVjXX56I6j9TcTWd2eVru2lyOKRTfjrXk)
   * 조은: [두서 없는 번역 이야기](https://www.notion.so/d578b178d2d741249424b1dd4be9e1fb)
