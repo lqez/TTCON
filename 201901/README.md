@@ -15,7 +15,7 @@
   * 김용균: [내가 보고 싶은 글 번역하기(YouTube)](https://www.youtube.com/watch?v=z7IaVmxIxTM) 
   * 김영근: [비윈도우즈 사용자의 기술 서적 번역 도구 경험](https://www.slideshare.net/scarinet/ss-127745157) / [YouTube](https://www.youtube.com/watch?v=_j2R5nI3aXU)
   * 김현도: [장애 보고서, 공지 안내문 번역의 즐거움](https://github.com/lqez/TTCON/blob/master/201901/contents/ttcon-201901-kimhyundo.pdf) / [YouTube](https://www.youtube.com/watch?v=OE9njpy_JwE)
-  * 노현석: [성장하기 위해 번역하는 나](https://speakerdeck.com/pluu/seongjanghagi-wihae-beonyeoghaneun-na)
+  * 노현석: [성장하기 위해 번역하는 나](https://speakerdeck.com/pluu/seongjanghagi-wihae-beonyeoghaneun-na) / [YouTube](https://www.youtube.com/watch?v=CSBLu12RDrc)
   * 박현우: [2019년에 기술 문서를 번역하는 기분](https://github.com/lqez/TTCON/blob/master/201901/contents/ttcon-201901-parkhyunwoo.pdf) / [YouTube](https://www.youtube.com/watch?v=0UGw60p7LfQ)
   * 변정훈: [nodejs-ko의 팀 번역](https://github.com/lqez/TTCON/blob/master/201901/contents/ttcon-201901-byunjeonghoon.pdf) / [YouTube](https://www.youtube.com/watch?v=EWs7gNVipWA)
   * 석우징: [Django 문서 한글화와 Transifex](https://1drv.ms/p/s!An2A3CAdfoIAkSD-CKJeYiku9cOg) / [YouTube](https://www.youtube.com/watch?v=_BhRQReF0R8)
